@@ -7,11 +7,16 @@
     <title>audio</title>
 </head>
 <body>
-    <audio controls src="Assets/audio/motivational.mp3" type="audi">motivational</audio>
+    <audio controls src="Assets/audio/motivational.mp3">
+        <p>Browser does not support this file</p>
+    </audio>
 
+
+    <!--I shtojme edhe 2 file te njejten por ne versione tjera si ogg dhe mpeg sepse browserat e ndryshem perdorin versione te ndryshme-->
+    
     <audio controls>
-        <source src="Assets/audio/motivational.ogg">
-        <source src="Assets/audio/motivational.ogg">
+        <source src="Assets/audio/motivational.mp3" type="audio/mpeg">
+        <p>Browser does not support this file</p>
     </audio>
 </body>
 </html>
