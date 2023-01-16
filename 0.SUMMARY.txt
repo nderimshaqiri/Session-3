@@ -1,6 +1,18 @@
-Atributet e audio'
+Atributet e audio;
 - autoplay: audio fillon te degjohet automatikisht
 - controls: play, pause, stop,...
+- loop: me rifillu cdohere kur perfundon
+- muted: pa ze
+- preload: auto, metadata, none
+
+
+
+
+Atributet e video;
+- autoplay: video fillon te degjohet automatikisht
+- controls: play, pause, stop,....
+- height: cakton lartesin e videos
+- width: cakton gjeresin e videos
 - loop: me rifillu cdohere kur perfundon
 - muted: pa ze
 - preload: auto, metadata, none
