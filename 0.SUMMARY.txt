@@ -1,0 +1,7 @@
+Atributet e audio'
+- autoplay: audio fillon te degjohet automatikisht
+- controls: play, pause, stop,...
+- loop: me rifillu cdohere kur perfundon
+- muted: pa ze
+- preload: auto, metadata, none
+- poster: ne specifiku nje fotografi e cila shfaqet ne video ne fillim para se te filloj, pra si cover.
